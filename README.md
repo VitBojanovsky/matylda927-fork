@@ -1,1 +1,1 @@
-Stylisticka uprava kodz, aby to bylo aspon trosku readeble s komenty
+Stylisticka uprava kodu, aby to bylo aspon trosku readeble s komenty
